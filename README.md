@@ -1,4 +1,4 @@
-# movie_vote_casting-using-PowerBI
+# movie_Ratings & Votes Insights -using-PowerBI
 This Power BI report visualizes movie titles, their reviews (overview), total vote counts, and average votes. It's based on data likely sourced from a platform like TMDb (The Movie Database).
 
 1. 📋 Table (Top Left) – Movie Titles by Vote Count :-
