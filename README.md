@@ -27,9 +27,10 @@ This Power BI report visualizes movie titles, their reviews (overview), total vo
 
 6. 📂 Data Fields (Right Sidebar) :-
         Fields used in visuals:
-             title: Movie name.
+             title: Movie name.       
              overview: Movie summary.
              original_language: Movie language.
              vote_average: Average user rating.
              vote_count: Total number of votes.
 
+![image](https://github.com/user-attachments/assets/f1e91b11-0545-4906-9058-3f67387ff33b)
